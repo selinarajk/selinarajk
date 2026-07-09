@@ -1,15 +1,13 @@
 ## Hi, I’m Selina 👋
 
-I’m a Python web developer from Toronto, Canada, relocating to the UK in the summer of 2026. After a stint in management consulting and some soul-searching I found I like to build real things myself, not just advise executives who do.
+I’m a Python web developer based in London, UK. After a stint in management consulting and some soul-searching I found I like to build things myself, not just advise those who do.
 
-🛠️ I enjoy building with Python 🐍 and Django in particular 🦄 but I plan to be full-stack
+🛠️ I enjoy building with Python 🐍 and Django 🦄
 
-👭 I build community wherever I go: I’m a PyLadies Toronto organizer and a DjangoCon Europe 2026 volunteer 
+👭 I build community wherever I go: I’m a PyLadies organizer, a DjangoCon Europe 2026 volunteer, and a EuroPython 2026 volunteer
 
-📈 Unlike many developers I have no problem understanding business concerns, talking to leaders in their language, and working across teams
+❤️ I care about open source software, personalized tech, and making a positive difference in the world
 
-❤️ I care about open source software, an independent web, and leaving the world in a better place than I found it
+✈️ In my spare time I like to travel, read classic literature, and experiment with microcontrollers
 
-✈️ In my spare time I travel, read classic literature, and experiment with microcontrollers
-
-📍 I have long-term work authorization for the UK, and I’m looking for backend Python roles that begin this summer or early fall
+📍 I’m looking for junior software engineer roles based in the UK
