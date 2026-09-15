@@ -1,13 +1,15 @@
 ## Hi, I’m Selina 👋
 
-I’m a Python web developer based in London, UK. After a stint in management consulting and some soul-searching I found I like to build things myself, not just advise those who do.
+I’m a backend developer based in London, UK. After a stint in management consultancy and some soul-searching, I realised I want to be in the arena building things that matter, not advising on the sidelines.
 
-🛠️ I enjoy building with Python 🐍 and Django 🦄
+🛠️ I feel at home with Python, especially Django. I also have frontend experience with Typescript, React, and Next.js.
 
-👭 I build community wherever I go: I’m a PyLadies organizer, a DjangoCon Europe 2026 volunteer, and a EuroPython 2026 volunteer
+👭 I strengthen community wherever I go: I’ve been a PyLadies organiser, Django Girls coach, and volunteer for conferences such as DjangoCon Europe and EuroPython.
 
-❤️ I care about open source software, personalized tech, and making a positive difference in the world
+⚖️ I know the value of soft skills. My past professional experience trained me well in effective communication, managing relationships, and seeing the bigger picture. I'm also naturally quite friendly and personable!
 
-✈️ In my spare time I like to travel, read classic literature, and experiment with microcontrollers
+❤️ I care about creating personalised technology, supporting the open source community, and making a positive difference in the world.
 
-📍 I’m looking for junior software engineer roles based in the UK
+✈️ In my spare time I like to travel, read classic literature, and experiment with microcontrollers.
+
+🇬🇧 I’m currently looking for associate software engineer roles based in the UK, preferably working with Python or Django!
