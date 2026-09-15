@@ -6,9 +6,9 @@ I’m a backend developer based in London, UK. After a stint in management consu
 
 👭 I strengthen community wherever I go: I’ve been a PyLadies organiser, Django Girls coach, and volunteer for conferences such as DjangoCon Europe and EuroPython.
 
-⚖️ I know the value of soft skills. My past professional experience trained me well in effective communication, managing relationships, and seeing the bigger picture. I'm also naturally quite friendly and personable!
+⚖️ I know the value of soft skills. My past professional experience trained me well in effective communication, managing relationships, and seeing the bigger picture. I'm also naturally friendly and personable!
 
-❤️ I care about creating personalised technology, supporting the open source community, and making a positive difference in the world.
+❤️ I care about personalised tech, open source software, and making a positive difference in the world.
 
 ✈️ In my spare time I like to travel, read classic literature, and experiment with microcontrollers.
 
